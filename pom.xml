@@ -42,12 +42,6 @@
             <groupId>org.glassfish.jersey.containers</groupId>
             <artifactId>jersey-container-servlet</artifactId>
         </dependency>
-        <!-- uncomment this to get JSON support
-        <dependency>
-            <groupId>org.glassfish.jersey.media</groupId>
-            <artifactId>jersey-media-moxy</artifactId>
-        </dependency>
-        -->
         <dependency>
         	<groupId>javax.servlet</groupId>
         	<artifactId>javax.servlet-api</artifactId>
